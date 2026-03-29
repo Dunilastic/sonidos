@@ -1,0 +1,49 @@
+{
+  "sonidos": [
+    {
+      "nombre": "error",
+      "url": "https://github.com/Dunilastic/sonidos/raw/refs/heads/main/error.mp3",
+      "": ""
+    },
+    {
+      "nombre": "correcto",
+      "url": "https://github.com/Dunilastic/sonidos/raw/refs/heads/main/correcto.mp3",
+      "": ""
+    },
+    {
+      "nombre": "",
+      "url": "",
+      "": ""
+    },
+    {
+      "nombre": "",
+      "url": "",
+      "": ""
+    },
+    {
+      "nombre": "",
+      "url": "",
+      "": ""
+    },
+    {
+      "nombre": "",
+      "url": "",
+      "": ""
+    },
+    {
+      "nombre": "",
+      "url": "",
+      "": ""
+    },
+    {
+      "nombre": "",
+      "url": "",
+      "": ""
+    },
+    {
+      "nombre": "",
+      "url": "",
+      "": ""
+    }
+  ]
+}
